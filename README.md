@@ -57,5 +57,7 @@ Dacă jucătorul greșește, jocul se resetează și se afișează mesajul **„
 
 ## 🏫 Informații proiect
 Proiect realizat de **Dragotoniu Ionuț-Constantin**
+
 Facultatea de Electronică, Telecomunicații și Tehnologia Informației – UPB
+
 An universitar 2024–2025
